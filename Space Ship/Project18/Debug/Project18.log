@@ -1,0 +1,35 @@
+﻿  Spaceship.cpp
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(152,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(168,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(179,15): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(179,10): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(183,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(278,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(278,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(279,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(279,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(285,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(285,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(286,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(286,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(327,85): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(327,41): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(326,93): warning C4244: 'argument': conversion from '_Ty2' to 'int', possible loss of data
+          with
+          [
+              _Ty2=float
+          ]
+C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Project18\Spaceship.cpp(326,49): warning C4244: 'argument': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=float
+          ]
+  Project18.vcxproj -> C:\Users\ducth\git_repos2\duc.thai.projects\Space Ship\Debug\Project18.exe
